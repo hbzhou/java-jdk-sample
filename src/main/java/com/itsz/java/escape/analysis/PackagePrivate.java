@@ -1,0 +1,1 @@
+package com.itsz.java.escape.analysis;interface PackagePrivate {}

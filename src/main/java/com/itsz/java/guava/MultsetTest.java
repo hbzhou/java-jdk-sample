@@ -1,13 +1,13 @@
 package com.itsz.java.guava;
 
-import com.google.common.base.Function;
 import com.google.common.collect.*;
-import org.checkerframework.checker.nullness.qual.Nullable;
 import org.junit.Test;
 
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 public class MultsetTest {
 
@@ -18,9 +18,7 @@ public class MultsetTest {
         };
 
         Multiset<String> multiset = HashMultiset.create();
-        for (String word : doc) {
-            multiset.add(word);
-        }
+        multiset.addAll(Arrays.asList(doc));
         System.out.println(multiset.count("java"));
     }
 
@@ -50,14 +48,7 @@ public class MultsetTest {
     @Test
     public void testLists() {
         List<String> names = Lists.newArrayList("jeremy", "john");
-        Lists.transform(names, new Function<String, String>() {
-
-            @Nullable
-            @Override
-            public String apply(@Nullable String s) {
-                return s.toUpperCase();
-            }
-        });
+        names.stream().map(String::toUpperCase).collect(Collectors.toList());
     }
 
     @Test
@@ -66,15 +57,15 @@ public class MultsetTest {
         Set<String> numberSet2 = ImmutableSet.of("one", "two", "three", "eight");
 
         Sets.SetView<String> union = Sets.union(numberSet, numberSet2);
-        union.stream().forEach(System.out::println);
+        union.forEach(System.out::println);
         System.out.println("========================");
 
         Sets.SetView<String> difference = Sets.difference(numberSet, numberSet2);
-        difference.stream().forEach(System.out::println);
+        difference.forEach(System.out::println);
         System.out.println("========================");
 
         Sets.SetView<String> intersection = Sets.intersection(numberSet, numberSet2);
-        intersection.stream().forEach(System.out::println);
+        intersection.forEach(System.out::println);
         System.out.println("========================");
 
     }

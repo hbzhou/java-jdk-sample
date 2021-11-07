@@ -1,8 +1,6 @@
 package com.itsz.java.functional.method;
 
 
-import sun.rmi.runtime.Log;
-
 import java.util.Objects;
 import java.util.Random;
 import java.util.function.Function;
