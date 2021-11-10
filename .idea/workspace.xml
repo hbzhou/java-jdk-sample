@@ -1,13 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18dfc63c-7bf5-4beb-9f31-36e6d131fa06" name="Default Changelist" comment="" />
+    <list default="true" id="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/functional/method/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/functional/method/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/functional/method/PriceQuotationTypeCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/functional/method/Quotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/lambda/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/lambda/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/lambda/MethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/lambda/Orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsz/java/functional/method/PriceQuotationContext.java" beforeDir="false" />
+    </list>
+    <list id="c9ef0a54-d852-41e1-9ee8-f61598fa0d9e" name="ignore" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsz/java/dynamic/proxy/JavassistByteCodeProxyTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsz/java/dynamic/proxy/JavassistByteCodeProxyTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/functional/method/FunctionalMethod$LogicTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itsz/java/functional/method/FunctionalMethod$LogicTreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/functional/method/FunctionalMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itsz/java/functional/method/FunctionalMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/guava/MultsetTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/guava/MultsetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itsz/java/guava/MultsetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/thread/concurrent/ABAProblemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itsz/java/thread/concurrent/ABAProblemTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/thread/lock_condition/TreadTest$Consummer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itsz/java/thread/lock_condition/TreadTest$Consummer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/itsz/java/thread/lock_condition/TreadTest$Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/itsz/java/thread/lock_condition/TreadTest$Producer.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="5" changelist="c9ef0a54-d852-41e1-9ee8-f61598fa0d9e" />
+        <range start1="3" end1="4" start2="6" end2="30" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="9" end1="9" start2="35" end2="76" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="10" end1="10" start2="77" end2="84" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="19" end1="20" start2="93" end2="93" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="23" end1="23" start2="96" end2="97" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="26" end1="31" start2="100" end2="207" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="32" end1="32" start2="208" end2="209" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="37" end1="38" start2="214" end2="216" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="43" end1="43" start2="221" end2="258" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="44" end1="44" start2="259" end2="267" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="49" end1="49" start2="272" end2="282" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="50" end1="52" start2="283" end2="333" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="53" end1="56" start2="334" end2="337" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+        <range start1="57" end1="58" start2="338" end2="416" changelist="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" />
+      </ranges>
+    </file>
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repsoitory\.m2\repository" />
+        <option name="mavenHome" value="D:/soft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -17,44 +88,328 @@
   <component name="ProjectId" id="1d1oZRhv6dbovqrtUGllBz4dnXL" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty-learning" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15462612" />
+    <property name="project.structure.side.proportion" value="0.51688695" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RunManager" selected="Application.ClientMain">
+    <configuration name="ABAProblemTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.java.thread.concurrent.ABAProblemTest" />
+      <module name="java-jdk-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.java.thread.concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.java.functional.method.ClientMain" />
+      <module name="java-jdk-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.java.functional.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscapeAnalysis" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.java.escape.analysis.EscapeAnalysis" />
+      <module name="java-jdk-sample" />
+      <option name="VM_PARAMETERS" value="-XX:+PrintCompilation " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.java.escape.analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionalMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.java.functional.method.FunctionalMethod" />
+      <module name="java-jdk-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.java.functional.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsz.java.lambda.MethodReference" />
+      <module name="java-jdk-sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsz.java.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ABAProblemTest" />
+      <item itemvalue="Application.EscapeAnalysis" />
+      <item itemvalue="Application.FunctionalMethod" />
+      <item itemvalue="Application.MethodReference" />
+      <item itemvalue="Application.ClientMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientMain" />
+        <item itemvalue="Application.MethodReference" />
+        <item itemvalue="Application.EscapeAnalysis" />
+        <item itemvalue="Application.ABAProblemTest" />
+        <item itemvalue="Application.FunctionalMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18dfc63c-7bf5-4beb-9f31-36e6d131fa06" name="Default Changelist" comment="" />
+      <changelist id="8fe8f4f4-ccc4-4401-b61f-bfd57f756c50" name="Default Changelist" comment="" />
+      <changelist id="c9ef0a54-d852-41e1-9ee8-f61598fa0d9e" name="ignore" comment="" />
       <created>1591602015658</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591602015658</updated>
       <workItem from="1591602018358" duration="373000" />
+      <workItem from="1594694070297" duration="2211000" />
+      <workItem from="1594778117748" duration="1551000" />
+      <workItem from="1596003692865" duration="2020000" />
+      <workItem from="1596332765168" duration="55000" />
+      <workItem from="1598018093098" duration="942000" />
+      <workItem from="1606655948706" duration="2807000" />
+      <workItem from="1607158236763" duration="1316000" />
+      <workItem from="1607698857006" duration="26000" />
+      <workItem from="1608974932778" duration="371000" />
+      <workItem from="1608975367598" duration="13000" />
+      <workItem from="1608975538617" duration="422000" />
+      <workItem from="1608975983496" duration="1789000" />
+      <workItem from="1613569762596" duration="767000" />
+      <workItem from="1614604355448" duration="4700000" />
+      <workItem from="1614694270368" duration="170000" />
+      <workItem from="1622811432140" duration="1725000" />
+      <workItem from="1622889208037" duration="14000" />
+      <workItem from="1631713886600" duration="1606000" />
+      <workItem from="1632918618906" duration="2676000" />
+      <workItem from="1633593056089" duration="2592000" />
+      <workItem from="1633961206121" duration="926000" />
+      <workItem from="1636122459216" duration="69000" />
+      <workItem from="1636122551561" duration="27000" />
+      <workItem from="1636122608479" duration="16000" />
+      <workItem from="1636122646400" duration="23000" />
+      <workItem from="1636122789917" duration="5000" />
+      <workItem from="1636122818917" duration="30000" />
+      <workItem from="1636123170921" duration="4484000" />
+      <workItem from="1636289329969" duration="150000" />
+      <workItem from="1636289503199" duration="8936000" />
     </task>
+    <task id="LOCAL-00001" summary="code change">
+      <created>1636289930664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636289930664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add .gitignore">
+      <created>1636290266958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636290266958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="code change" />
+    <MESSAGE value="add .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="218" key="FileChooserDialogImpl" timestamp="1591602391673">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="537" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1636127178131">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state x="690" y="218" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591602391673" />
-    <state x="352" y="0" key="SettingsEditor" timestamp="1591602326644">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="537" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1463.874@0.0.1463.874" timestamp="1636127178131" />
+    <state x="435" y="183" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1636126233684">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state x="352" y="0" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1591602326644" />
+    <state x="435" y="183" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1463.874@0.0.1463.874" timestamp="1636126233684" />
+    <state x="337" y="32" key="CommitChangelistDialog2" timestamp="1636290265907">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="337" y="32" key="CommitChangelistDialog2/0.0.1463.874@0.0.1463.874" timestamp="1636290265907" />
+    <state x="139" y="76" key="DiffContextDialog" timestamp="1636289943249">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="139" y="76" key="DiffContextDialog/0.0.1463.874@0.0.1463.874" timestamp="1636289943249" />
+    <state width="1420" height="305" key="GridCell.Tab.0.bottom" timestamp="1636468423366">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="305" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1636468423366" />
+    <state width="1420" height="305" key="GridCell.Tab.0.center" timestamp="1636468423366">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="305" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1636468423366" />
+    <state width="1420" height="305" key="GridCell.Tab.0.left" timestamp="1636468423365">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="305" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1636468423365" />
+    <state width="1420" height="305" key="GridCell.Tab.0.right" timestamp="1636468423366">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state width="1420" height="305" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1636468423366" />
+    <state x="233" y="80" key="SettingsEditor" timestamp="1636289480952">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="233" y="80" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1636289480952" />
+    <state x="562" y="307" key="VCS.EditChangelistDialog" timestamp="1636289813968">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="562" y="307" key="VCS.EditChangelistDialog/0.0.1463.874@0.0.1463.874" timestamp="1636289813968" />
+    <state x="324" y="171" key="Vcs.Push.Dialog.v2" timestamp="1636290269152">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="324" y="171" key="Vcs.Push.Dialog.v2/0.0.1463.874@0.0.1463.874" timestamp="1636290269152" />
+    <state x="414" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1636289539691">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="414" y="262" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1636289539691" />
+    <state x="527" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636465068031">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="527" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1463.874@0.0.1463.874" timestamp="1636465068031" />
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1636291080056">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="394" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1463.874@0.0.1463.874" timestamp="1636291080056" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>205</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>208</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>1197</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>605</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>857</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>795</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java</url>
+          <line>835</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>148</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itsz/java/juc/AQSDebuggerTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itsz/java/juc/AQSDebuggerTest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itsz/java/jvm/IntegerTest.java</url>
+          <line>4</line>
+          <properties class="com.itsz.java.jvm.IntegerTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/text/Collator.java</url>
+          <line>284</line>
+          <properties class="java.text.Collator" method="compare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
