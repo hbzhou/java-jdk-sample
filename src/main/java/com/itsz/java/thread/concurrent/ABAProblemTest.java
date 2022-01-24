@@ -1,7 +1,5 @@
 package com.itsz.java.thread.concurrent;
 
-import sun.awt.windows.ThemeReader;
-
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.atomic.AtomicStampedReference;
 
